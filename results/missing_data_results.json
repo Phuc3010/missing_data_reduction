@@ -1,0 +1,1 @@
+{"Dataset": "MNIST", "Accuracy": 0.9246, "Missing_rate": 0.2, "Time": 15.685137510299683, "RMSE": 14.758074818103113, "Impute_method": "softimpute", "Classifier": "logistic", "Dimension_reduction": "pca"}
